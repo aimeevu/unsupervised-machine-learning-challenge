@@ -20,10 +20,10 @@
 
 <a href="ElbowPlot.png"><img src="ElbowPlot.png"></a>
 
-<p>Based on the plot above, we can see that the elbow is roughly around 3.</p>
+<p>Based on the plot above, we can see that the elbow is roughly around 4.</p>
 
 * Part 4: Make a Recommendation
-<p>Based on our findings, we can conclude that the patients could be clustered together. The point in which our elbow plot bends is at about 3. These clusters can also be seen in the scatterplot.</p>
+<p>Based on our findings, we can conclude that the patients could be clustered together. The point in which our elbow plot bends is at about 4. These clusters can also be seen in the scatterplot.</p>
 
 ### Submission Requirements
 * <a href="MyopiaClusters.ipynb">Jupyter Notebook</a>

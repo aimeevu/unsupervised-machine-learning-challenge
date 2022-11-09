@@ -13,7 +13,7 @@
 
 <p>We further reduce the dataset dimension with t-SNE and display our results on a scatter plot.</p>
 
-<a href="ScatterPlot.png"><img src="ScatterPlot.png"></a>
+<a href="ScatterPlotImage.png"><img src="ScatterPlotImage.png"></a>
 
 * <b>Part 3: Perform a Cluster Analysis with K-means</b>
 <p>To identify the best number of clusters, we create an elbow plot for the k-means values. We achieve this by creating a for loop to determine the inertia for k between 1 through 10.</p>
